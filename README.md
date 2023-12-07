@@ -1,1 +1,2 @@
-# listing_of_shops
+# week_two_project
+This is week 2 project
